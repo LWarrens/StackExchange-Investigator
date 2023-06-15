@@ -1,0 +1,12 @@
+# Blacklist
+/*
+# Whitelist
+!/.gitignore
+## Build Files
+!/.gitignore
+## Documentation
+!/*.md
+!/*.json
+!/webpack.config.js
+!/src
+!/LICENSE.txt
