@@ -20,7 +20,7 @@ This extension contributes the following settings:
 ### prerequisites
 Run `yarn` to install all dependencies
 
-Fill in all fields in a key value config file named '.env' (if you work at uber, contact lavorgia@uber.com if you'd like to use his .env setup / keys)
+Fill in all fields in a key value config file named '.env'
 OpenAI and Stack Overflow API keys, the stack overflow site url, and the data filters as described https://api.stackexchange.com/docs/filters
 
 ### development
